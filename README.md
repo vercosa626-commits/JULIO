@@ -103,7 +103,7 @@ Faltam 1.550 XP para o LEVEL 13
 
 ---
 
-## 📜 LORE (Sobre mim)
+## 📜  reflexão (Sobre mim)
 
 > *"O conhecimento é construído quando colocamos a teoria em prática."*
 
