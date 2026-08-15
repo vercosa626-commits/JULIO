@@ -117,9 +117,14 @@ Estudante de **Engenharia de Software** no IFAM – Campus Presidente Figueiredo
   <a href="https://github.com/SEU_USUARIO">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="SEU_LINKEDIN">
-    <img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/julio-cesar-a0a799227/)">
-  </a>
+   <a href="https://www.linkedin.com/in/julio-cesar-a0a799227" target="_blank">
+  <img 
+    align="center" 
+    alt="LinkedIn" 
+    height="15" 
+    width="30" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
+</a>
 </div>
 
 <div align="center">
